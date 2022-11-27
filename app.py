@@ -10,8 +10,8 @@ import filters
 import config, asyncio, json
 from mines import MineGame
 
-ADMINS_B = [1627807288, 745552440]
-PROMOTE_A = [1627807288, 745552440]
+ADMINS_B = [1627807288]
+PROMOTE_A = [1627807288]
 from filters import IsAdminFilter
 
 bot = Bot(token = config.TOKEN)
