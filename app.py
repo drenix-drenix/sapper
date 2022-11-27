@@ -1,4 +1,4 @@
-*from aiogram import Bot, types, Dispatcher, executor
+from aiogram import Bot, types, Dispatcher, executor
 from aiogram.types.chat_permissions import ChatPermissions
 
 from aiogram.dispatcher.webhook import PromoteChatMember
